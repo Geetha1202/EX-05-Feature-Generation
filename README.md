@@ -185,5 +185,5 @@ df5=pd.DataFrame(sc3.fit_transform(df1),columns=['Passenger','Survived','Pclass'
 df5
 ```
 # OUPUT
-![output](./https://github.com/Geetha1202/EX-05-Feature-Generation/blob/main/outimg1.png)
+![outimg1](https://user-images.githubusercontent.com/87663194/169201719-8a0ddfdc-3347-4251-ac50-e1917d223599.png)
 

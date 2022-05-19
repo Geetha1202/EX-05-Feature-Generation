@@ -187,5 +187,9 @@ df5
 # OUPUT
 ![outimg1](https://user-images.githubusercontent.com/87663194/169201719-8a0ddfdc-3347-4251-ac50-e1917d223599.png)
 ![outimg2](https://user-images.githubusercontent.com/87663194/169201802-7e6e9ffa-9cd4-4628-b57f-007780d7bf94.png)
+![outimg3](https://user-images.githubusercontent.com/87663194/169201859-03e0876d-a6d6-452d-b925-0990b0882f98.png)
+![outimg4](https://user-images.githubusercontent.com/87663194/169201892-dc788302-b17a-43ad-ac7f-35fdb0580485.png)
+![outimg5](https://user-images.githubusercontent.com/87663194/169201926-fed6115d-05ea-487c-b0d2-1f33ae0742da.png)
+
 
 

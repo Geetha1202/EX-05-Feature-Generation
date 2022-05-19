@@ -21,6 +21,7 @@ Save the data to the file
 
 # CODE
 ## Data.set:
+```
 import pandas as pd
 df=pd.read_csv("data.csv")
 df
@@ -178,5 +179,6 @@ from sklearn.preprocessing import RobustScaler
 sc3=RobustScaler()
 df5=pd.DataFrame(sc3.fit_transform(df1),columns=['Passenger','Survived','Pclass','Sex','Age','SibSp','Parch','Fare','Embarked'])
 df5
+```
 # OUPUT
 
